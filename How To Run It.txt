@@ -1,0 +1,5 @@
+>> Extract the zipped content into a single folder.
+>> Make sure that all of your images are in 'imageset' folder
+>> Read the 'Explanation.pdf' file in order to understand the coding flow
+>> Open "PCA_Manual.m" script in matlab and run it.
+>> 
